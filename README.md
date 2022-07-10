@@ -1,2 +1,2 @@
 # mianfeifq-share
-对某个仓库的处理
+对mianfeifq/share的处理。使链接可以直接使用
